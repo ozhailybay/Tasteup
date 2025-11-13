@@ -1,7 +1,8 @@
 {
-  "name": "my-v0-project",
-  "version": "0.1.0",
-  "private": true,
+  "name": "tasteup-website",
+  "version": "1.0.0",
+  "description": "AI-powered feedback system that helps schools create better menus and reduce food waste",
+  "private": false,
   "scripts": {
     "build": "next build",
     "dev": "next dev",
