@@ -111,9 +111,34 @@ TasteUp is trusted by leading educational institutions:
 
 ## 🚀 Deployment
 
-The project is ready to be deployed on:
-- [Vercel](https://vercel.com) (Recommended)
-- [Netlify](https://netlify.com)
+### Deploy to Netlify
+
+1. **Push your code to GitHub** (already done ✅)
+
+2. **Connect to Netlify:**
+   - Go to [Netlify](https://app.netlify.com)
+   - Sign up/Login with GitHub
+   - Click "Add new site" → "Import an existing project"
+   - Select your GitHub repository: `ozhailybay/Tasteup`
+   - Netlify will auto-detect Next.js settings
+
+3. **Build Settings** (auto-configured):
+   - Build command: `npm run build`
+   - Publish directory: `.next`
+   - Node version: `18`
+
+4. **Deploy:**
+   - Click "Deploy site"
+   - Wait for build to complete (~2-3 minutes)
+   - Your site will be live at: `https://your-site-name.netlify.app`
+
+5. **Custom Domain (Optional):**
+   - Go to Site settings → Domain management
+   - Add your custom domain
+
+### Other Deployment Options
+
+- [Vercel](https://vercel.com) - One-click deploy from GitHub
 - Any platform supporting Next.js
 
 ## 📝 License
