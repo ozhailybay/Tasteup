@@ -6,10 +6,14 @@
 
 **Making School Meals Smarter with AI**
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-tasteup2.netlify.app-00C7B7?style=for-the-badge&logo=netlify)](https://tasteup2.netlify.app)
+
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1.9-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+
+**🔗 [View Live Website](https://tasteup2.netlify.app)**
 
 </div>
 
@@ -110,6 +114,11 @@ TasteUp is trusted by leading educational institutions:
 - **10,000+** Active Students
 
 ## 🚀 Deployment
+
+### 🌐 Live Website
+
+**The website is currently deployed and live at:**  
+👉 **[https://tasteup2.netlify.app](https://tasteup2.netlify.app)**
 
 ### Deploy to Netlify
 
